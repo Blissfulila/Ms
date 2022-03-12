@@ -1,2 +1,2 @@
-# Ms
-First_project
+# Master_liptetsk
+My first project
